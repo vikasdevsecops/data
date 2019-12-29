@@ -1,3 +1,9 @@
+clss test
+{
+  s.o.print("tect code");
+  s.o.print("tect code");
+  s.o.print("tect code");
+}
 class Demo
 {
   p.s.void main(...)
