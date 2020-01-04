@@ -1,3 +1,14 @@
+void DevOps
+{
+  - ANSIBLE 
+  - PUPPET
+  - CHEF
+  - DOCKER
+  - KUBERNETES
+   ......
+}
+
+
 class NewMasterCode
 {
   .....New code...
