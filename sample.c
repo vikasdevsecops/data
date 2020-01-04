@@ -1,3 +1,9 @@
+void Deposite()
+{
+  bal = bal + amt
+}  
+
+
 void getData()
 {
   printf(" Get data");
